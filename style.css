@@ -1,0 +1,20 @@
+body {background: lightyellow;}
+h1 {text-align: center; color: red;font-size: 90px;}
+ul{color: blue;font-size: 30px;}
+ul{color: red;}
+p{text-align: center; color: red;}
+ol{color: red;}
+#cla {color: yellow;}
+body {
+    background-image: url("img_tree.gif"), url("paper.gif");
+    background-color: #cccccc;
+}
+@keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+}
+body{
+    background-image: url("http://interestingthings.info/wp-content/uploads/2014/04/wine4woman.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
